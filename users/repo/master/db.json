@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "ID": "1",
+            "Naam": "Bella Blaze",
+            "Leeftijd": "19",
+            "Email": "bellablaze@gmail.com",
+            "Gebruikersnaam": "bellablaze",
+            "Wachtwoord": "bblaze",
+            "Wachtwoord_bevestigen": "bblaze"
+        }
+    ],
+    "admin": [
+        {
+            "ID": "1",
+            "Naam": "Admin",
+            "Leeftijd": "18",
+            "Email": "***@gmail.com",
+            "Gebruikersnaam": "Admin",
+            "Wachtwoord": "****",
+            "Wachtwoord_bevestigen": "****"
+        }
+    ]
+}
